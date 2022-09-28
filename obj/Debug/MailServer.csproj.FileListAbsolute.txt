@@ -1,0 +1,6 @@
+C:\TestApp\MailServer\MailServer\bin\Debug\MailServer.exe
+C:\TestApp\MailServer\MailServer\bin\Debug\MailServer.pdb
+C:\TestApp\MailServer\MailServer\obj\Debug\ResolveAssemblyReference.cache
+C:\TestApp\MailServer\MailServer\obj\Debug\MailServer.exe
+C:\TestApp\MailServer\MailServer\obj\Debug\MailServer.pdb
+C:\TestApp\MailServer\MailServer\bin\Debug\MailServer.exe.config

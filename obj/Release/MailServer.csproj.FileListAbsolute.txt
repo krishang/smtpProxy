@@ -1,0 +1,11 @@
+C:\TestApp\MailServer\MailServer\bin\Release\MailServer.exe.config
+C:\TestApp\MailServer\MailServer\bin\Release\MailServer.exe
+C:\TestApp\MailServer\MailServer\obj\Release\ResolveAssemblyReference.cache
+C:\TestApp\MailServer\MailServer\obj\Release\MailServer.exe
+D:\Projects\MailServer\MailServer\bin\Release\MailServer.exe.config
+D:\Projects\MailServer\MailServer\obj\Release\MailServer.exe
+E:\smtpProxy\bin\Release\MailServer.exe.config
+E:\smtpProxy\bin\Release\MailServer.exe
+E:\smtpProxy\obj\Release\MailServer.csproj.CoreCompileInputs.cache
+E:\smtpProxy\obj\Release\MailServer.exe
+E:\smtpProxy\obj\Release\MailServer.csproj.AssemblyReference.cache

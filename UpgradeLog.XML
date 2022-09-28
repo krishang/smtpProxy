@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MailServer">
+</Property><Property Name="Solution File" Value="C:\TestApp\MailServer\MailServer\MailServer.sln">
+</Property><Property Name="User Options File" Value="C:\TestApp\MailServer\MailServer\MailServer.suo">
+</Property><Property Name="Date" Value="Monday, 5 October 2009">
+</Property><Property Name="Time" Value="15:04 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MailServer.sln" Description="File successfully backed up as C:\TestApp\MailServer\MailServer\Backup\MailServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MailServer.suo" Description="File successfully backed up as C:\TestApp\MailServer\MailServer\Backup\MailServer.suo">
+</Event><Event ErrorLevel="0" Project="MailServer" Source="MailServer.csproj" Description="Project file successfully backed up as C:\TestApp\MailServer\MailServer\Backup\MailServer.csproj">
+</Event><Event ErrorLevel="0" Project="MailServer" Source="MailServer.csproj.user" Description="Project user file successfully backed up as C:\TestApp\MailServer\MailServer\Backup\MailServer.csproj.user">
+</Event><Event ErrorLevel="0" Project="MailServer" Source="App.cs" Description="File successfully backed up as C:\TestApp\MailServer\MailServer\Backup\App.cs">
+</Event><Event ErrorLevel="0" Project="MailServer" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\TestApp\MailServer\MailServer\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MailServer" Source="Server.cs" Description="File successfully backed up as C:\TestApp\MailServer\MailServer\Backup\Server.cs">
+</Event><Event ErrorLevel="0" Project="MailServer" Source="SMTPProcessor.cs" Description="File successfully backed up as C:\TestApp\MailServer\MailServer\Backup\SMTPProcessor.cs">
+</Event><Event ErrorLevel="0" Project="MailServer" Source="App.ico" Description="File successfully backed up as C:\TestApp\MailServer\MailServer\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="MailServer" Source="MailServer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MailServer" Source="MailServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MailServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MailServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MailServer" Source="MailServer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
